@@ -10,6 +10,7 @@ modified_resumes/*
 !modified_resumes/.gitkeep
 node_modules/
 dist/
+!frontend/dist/
 .vite/
 *.log
 .DS_Store
